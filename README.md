@@ -1,1 +1,1 @@
-GitHub feature-A and fix-B
+GitHub feature-A and fix-B and feature-C
